@@ -15,9 +15,12 @@ class maincompo extends Component {
         let classses = this.NewText();
         return (
             <div>
-                <ItemDisplas title='Title of the Item' Image={mainImg} />
-                <ItemDisplas title='Rakthi' Image={mainImg} />
-                <ItemDisplas title='SisiL Bima' Image={mainImg} />
+                <ItemDisplas title = "sdkfuhdsadfk" Image={mainImg}/>
+                <ItemDisplas title = "kasun"/>
+                <ItemDisplas />
+                <ItemDisplas/>
+
+                
             </div>
         )
     }

@@ -16,7 +16,7 @@ function App() {
   return (
     <div>
 
-      <Navigation />
+      <Navigation Pname="sddkjhasd"/>
 
       <Router>
         <Switch>

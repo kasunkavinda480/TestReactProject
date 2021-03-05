@@ -11,7 +11,7 @@ class Navigation extends Component {
                         <div className="collapse navbar-collapse" id="navcol-1">
                             <ul className="nav navbar-nav ml-auto">
                                 <li className="nav-item"><a className="nav-link" href="/index">Home</a></li>
-                                <li className="nav-item"><a className="nav-link" href="/product">Products</a></li>
+                                <li className="nav-item"><a className="nav-link" href="/product">{this.props.Pname}</a></li>
                                 <li className="nav-item"><a className="nav-link" href="#">News</a></li>
                                 <li className="nav-item"><a className="nav-link" href="#">Contact US</a></li>
                                 <li className="nav-item dropdown"><a className="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">About Us</a>

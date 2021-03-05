@@ -11,6 +11,7 @@ class ItemDisplay extends Component {
                 <ItemImage Imagess={this.props.Image} />
                 <p>{`welcome ${this.props.desc}`}</p>
                 <p>{this.props.price}</p>
+                <p>suyjdfsad jhdasjdh</p>
             </div>
 
         );
